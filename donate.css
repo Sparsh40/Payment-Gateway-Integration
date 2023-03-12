@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://paddho.com/wp-content/uploads/2019/01/helping-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    padding:200px 50px 0px 50px;
+    background-size: cover;
+    background-position: center;
+    max-height: 200vh;  
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;  
+    opacity:0.7;
+}
+
+.jumbotron{
+    background-color: #eee;
+    padding:50px 50px 50px 50px;
+    width:100%; 
+    
+}
+
+form{
+    text-align: center;    
+}
+
+h4{
+    text-align: center;
+}
